@@ -7,13 +7,6 @@ Track vitals over time, See graph representations.
 
 [![Get it on Google Play](https://lisk.io/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](https://play.google.com)
 
-New features to be added in future - 
-1. Medical alerts
-2. Drug tracking
-3. Drug reminders
-4. Camera based Auto-detection of readings
-5. Customizable tracking parameters 
-
 Kindly don't use for medical purposes or patient care. 
 
 If interested in collaboration for this project, email me on - ap4.singh@gmail.com
