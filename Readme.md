@@ -45,3 +45,5 @@ Coverage of Android devices - more than 98%
 | Home screen                  |  Graphs | 
 | :---:                     |     :---:      |          
 | <img src="images/photo_2021-06-07_19-21-12.jpg" alt="Normal" height=500/> | <img src="images/photo_2021-06-07_19-21-15.jpg" alt="Maculopathy" height=500/>   |
+
+P.S. - This project wouldn't have been possible without long creative discussions with my friend - Dr. Akshdeep singh
